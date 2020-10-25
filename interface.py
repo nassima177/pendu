@@ -12,7 +12,8 @@
         self.label.setFont(font)
         self.label.setObjectName("label")
         self.label_2 = QtWidgets.QLabel(Dialog)
-        self.label_2.setGeometry(QtCore.QRect(30, 100, 141, 16))
+       \\YO
+       self.label_2.setGeometry(QtCore.QRect(30, 100, 141, 16))
         font = QtGui.QFont()
         font.setPointSize(11)
         font.setBold(True)
